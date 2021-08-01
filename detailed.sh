@@ -1,3 +1,5 @@
 #!bin/bash
 echo "THIS SCRIPT WILL PROVIDE INFORMATION ABOUT THE LOCAL SYSTEM"
-llfg,lfglg,l
+echo hostname
+echo $(who am i)
+echo $(id -un)
