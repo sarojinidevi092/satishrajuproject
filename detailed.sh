@@ -1,2 +1,3 @@
 #!bin/bash
 echo "THIS SCRIPT WILL PROVIDE INFORMATION ABOUT THE LOCAL SYSTEM"
+llfg,lfglg,l
